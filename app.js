@@ -9,3 +9,13 @@ function getTranslationURL(input) {
     console.log("text in fn=" + text)
     return text
 }
+
+function errorHandler(error) {
+    console.log("An Error Occured", error)
+    alert("Something is not right , please try again later")
+}
+
+function errorHandler(error) {
+    console.log("An Error Occured", error)
+    alert("Something is not right , please try again later")
+}
