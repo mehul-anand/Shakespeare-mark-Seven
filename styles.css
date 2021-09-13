@@ -9,3 +9,12 @@
     height: 15vh;
     font-size: 1.3rem;
 }
+
+#btn-translate{
+    font-size: 1.5rem;
+    width: 200px;
+    height: 10vh;
+    margin: 4rem 0rem;
+    background-color:#0891B2 ;
+    color:ivory;
+}
